@@ -2,7 +2,7 @@
 
 A program that uses CUnit to create test cases for the quick sort and fisherYates algorithms provided.
 
-![Alt text](./readme-resources/img/sort_shuffle_testcase_1.png "Preview")
+![Alt text](./readme-resources/img/overview.png "Preview")
 
 &nbsp;
 ## Characteristics
